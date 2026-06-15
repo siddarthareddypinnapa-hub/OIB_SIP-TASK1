@@ -1,0 +1,27 @@
+body {
+  background-color: darkgrey;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: lightblue;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none
